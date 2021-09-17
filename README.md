@@ -4,10 +4,10 @@ I use Google daily:
 
 * the search engine
 * my android mobile phone
-* GSuite for notes
+* GSuite for notes, calendar and contacts.
 * Gmail for my mails
 * Maps and navigation
-* Authentication: Login via Google"
+* Authentication: "Login via Google"
 * ....
 
 How does it feel to be addicted to this giant?
