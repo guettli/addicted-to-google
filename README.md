@@ -71,3 +71,6 @@ with Chromium in the future, then the source code could be forked and developed 
 
 If you use Chrome, then Google knows almost everything you do.
 
+But: How to sync passwords/bookmarks/history with Chromium? Google switched from "don't be evil" to "force chrome", since Google
+banned third party browsers from their Sync APIs. Two options: Follow the command of Google and switch from Chromium to Chrome? Or try to find an alternative: https://softwarerecs.stackexchange.com/questions/80905/chromium-based-browser-with-out-of-the-box-password-sync
+
